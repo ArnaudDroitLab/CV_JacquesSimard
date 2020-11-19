@@ -50,4 +50,4 @@ From 2001 to 2013, I was Director of the Interdisciplinary Health Research Inter
 
 More recently, from 2013 to 2018 I was Principal Investigator of a large-scale interdisciplinary project entitled Personalized Risk Stratification for Prevention and Early Detection of Breast Cancer (PERSPECTIVE), designed to develop the tools needed to implement a risk stratification approach that would target breast cancer screening in women most likely to develop the disease. I currently lead a related large-scale project titled Personalized Risk Assessment for Prevention and Early Detection of Breast Cancer: Integration and Implementation (PERSPECTIVE I&I). The overall goal of this project is to improve personalized risk assessment, to provide risk-based prevention and early detection of breast cancer, and to determine the optimal implementation approaches in the Canadian health system.
 
-{{< icon name="download" pack="fas" >}} My CV {{< staticref "media/CV_long_JS.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "media/CV_long_JS.pdf" "newtab" >}}My CV{{< /staticref >}}.
