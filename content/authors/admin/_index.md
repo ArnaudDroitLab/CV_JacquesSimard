@@ -18,9 +18,10 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Université Laval
+  url: https://www.ulaval.ca/
+role: Chairholder of the Canada Research Chair in Oncogenetics,<br>Vice-Dean of Research and Graduate Studies,<br>Full Professor,<br>Department of Molecular Medicine,<br>Faculty of Medicine, Université Laval<br>CHU de Québec – Université Laval Research Center
+
 social:
 - icon: envelope
   icon_pack: fas
@@ -38,13 +39,15 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Jacques Simard, PhD, FACSS, ACS
 user_groups:
 - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently Vice-Dean of Research and Graduate Studies at the Faculty of Medicine and Full Professor for the Department of Molecular Medicine at Université Laval. Since 2001, I hold the position of Canada Research Chair in Oncogenetics and since 1990, I have been a Scientist at the Centre Hospitalier Universitaire de Québec - Université Laval Research Center. My research focuses on the genetic susceptibility of hormone-dependent cancers, including breast, ovarian, and prostate cancer and my career has unfolded along a common thread, namely the characterization of the genetic and hormonal mechanisms of hormone-dependent cancers with the aim of improving its early detection and treatment. I possess solid expertise in molecular endocrinology, genomics, oncogenetics and translational research and have a genuine interest in the social, ethical and legal issues related to personalized health care.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+From 2001 to 2013, I was Director of the Interdisciplinary Health Research International Team on Breast Cancer Susceptibility (INHERIT BRCAs), an international interdisciplinary health research team on genetic susceptibility to breast cancer.  The establishment of this team allowed me to pursue numerous collaborations with several international consortia, leading to a significant increase in the validity and international impact of scientific breakthroughs in this area.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+More recently, from 2013 to 2018 I was Principal Investigator of a large-scale interdisciplinary project entitled Personalized Risk Stratification for Prevention and Early Detection of Breast Cancer (PERSPECTIVE), designed to develop the tools needed to implement a risk stratification approach that would target breast cancer screening in women most likely to develop the disease. I currently lead a related large-scale project titled Personalized Risk Assessment for Prevention and Early Detection of Breast Cancer: Integration and Implementation (PERSPECTIVE I&I). The overall goal of this project is to improve personalized risk assessment, to provide risk-based prevention and early detection of breast cancer, and to determine the optimal implementation approaches in the Canadian health system.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_long_JS.pdf" "newtab" >}}resumé{{< /staticref >}}.
