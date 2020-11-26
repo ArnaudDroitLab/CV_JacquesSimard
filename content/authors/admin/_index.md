@@ -26,8 +26,7 @@ interests:
 organizations:
 - name: Université Laval
   url: https://www.ulaval.ca/
-role: Chairholder of the Canada Research Chair in Oncogenetics,<br>Vice-Dean of Research and Graduate Studies,<br>Full Professor,<br>Department of Molecular Medicine,<br>Faculty of Medicine, Université Laval<br>CHU de Québec – Université Laval Research Center
-
+role: PhD, FCAHS, C.Dir
 social:
 - icon: envelope
   icon_pack: fas
