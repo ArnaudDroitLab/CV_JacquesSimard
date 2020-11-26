@@ -26,7 +26,7 @@ interests:
 organizations:
 - name: Université Laval
   url: https://www.ulaval.ca/
-role: PhD, FCAHS, C.Dir
+role: Chairholder of the Canada Research Chair in Oncogenetics,<br>Vice-Dean of Research and Graduate Studies,<br>Full Professor,<br>Department of Molecular Medicine,<br>Faculty of Medicine, Université Laval<br>CHU de Québec – Université Laval Research Center
 social:
 - icon: envelope
   icon_pack: fas
@@ -38,7 +38,7 @@ social:
   icon_pack: fas
   link: https://www.fmed.ulaval.ca/recherche/recherche-a-la-faculte/repertoire-des-professeurs/profil-du-professeur/Jacques-Simard/410/?tx_fichechercheur_fichechercheur%5B__referrer%5D%5B%40extension%5D=FicheChercheur&tx_fichechercheur_fichechercheur%5B__referrer%5D%5B%40vendor%5D=Fmed&tx_fichechercheur_fichechercheur%5B__referrer%5D%5B%40controller%5D=Researchers&tx_fichechercheur_fichechercheur%5B__referrer%5D%5B%40action%5D=index&tx_fichechercheur_fichechercheur%5B__referrer%5D%5Barguments%5D=YToyOntzOjY6ImFjdGlvbiI7czo1OiJpbmRleCI7czoxMDoiY29udHJvbGxlciI7czoxMToiUmVzZWFyY2hlcnMiO30%3Dd17fa1a8cf5baf02b79539d3ca8ce75e7d184a71&tx_fichechercheur_fichechercheur%5B__referrer%5D%5B%40request%5D=a%3A4%3A%7Bs%3A10%3A%22%40extension%22%3Bs%3A14%3A%22FicheChercheur%22%3Bs%3A11%3A%22%40controller%22%3Bs%3A11%3A%22Researchers%22%3Bs%3A7%3A%22%40action%22%3Bs%3A5%3A%22index%22%3Bs%3A7%3A%22%40vendor%22%3Bs%3A4%3A%22Fmed%22%3B%7D0eb8fe8e66b69938da85b4ea9e0bc4826c192dc2&tx_fichechercheur_fichechercheur%5B__trustedProperties%5D=a%3A4%3A%7Bs%3A9%3A%22mots_cles%22%3Bi%3A1%3Bs%3A21%3A%22thematique_facultaire%22%3Bi%3A1%3Bs%3A19%3A%22programme_recherche%22%3Bi%3A1%3Bs%3A5%3A%22unite%22%3Bi%3A1%3B%7Ddf9589784796f3403f077b756228987cdf6bf599&tx_fichechercheur_fichechercheur%5Bmots_cles%5D=simard&tx_fichechercheur_fichechercheur%5Bthematique_facultaire%5D=&tx_fichechercheur_fichechercheur%5Bprogramme_recherche%5D=&tx_fichechercheur_fichechercheur%5Bunite%5D=
 superuser: true
-title: Jacques Simard, PhD, FACSS, ACS
+title: Jacques Simard, PhD, FCAHS, C.Dir
 user_groups:
 - Principal Investigators
 ---
