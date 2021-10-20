@@ -16,6 +16,6 @@
     weight = 70
 
  [[main]]
-    name = "My CV (French)"
+    name = "Mon CV (version française)"
     url = "media/CV_long_JS.pdf"
     weight = 70
