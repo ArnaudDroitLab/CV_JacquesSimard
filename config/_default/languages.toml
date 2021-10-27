@@ -11,10 +11,10 @@
 [fr]
   languageCode = "fr-ca"
   contentDir = "content/fr"
-#  title = "Chinese website title..."
-#  [zh.params]
-#    description = "Site description in Chinese..."
-#  [[zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+  title = "French website title..."
+  [fr.params]
+    description = "Site description in french..."
+  [[fr.menu.main]]
+    name = "fr"
+    url = "#about"
+    weight = 1
