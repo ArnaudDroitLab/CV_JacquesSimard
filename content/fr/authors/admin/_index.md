@@ -26,7 +26,7 @@ interests:
 organizations:
 - name: Université Laval
   url: https://www.ulaval.ca/
-role: <b>PhD, FCAHS, C.Dir</b><br><br><i>Titulaire de la Chaire de recherche du Canada en Oncogénétique,<br>Vice-doyen à la recherche et aux études supérieures,<br>Professeur titulaire,<br>Departement de Médicine moléculaire,<br>Faculté de Médicine, Université Laval<br>Centre de recherche duCHU de Québec – Université Laval</i>
+role: <b>PhD, FCAHS, C.Dir</b><br><br><i>Titulaire de la Chaire de recherche du Canada en Oncogénétique,<br>Vice-doyen à la recherche et aux études supérieures,<br>Professeur titulaire,<br>Departement de Médicine moléculaire,<br>Faculté de Médicine, Université Laval<br>Centre de recherche du CHU de Québec – Université Laval</i>
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,5 +41,8 @@ superuser: true
 title: Jacques Simard
 user_groups:
 - Principal Investigators
+contact:
+  directions:
+    "Entrer par le bloc T et contacter Catherine Jarry à la réception"
 ---
 
