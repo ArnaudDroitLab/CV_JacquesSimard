@@ -12,6 +12,6 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
  [[main]]
-    name = "Mon CV (version française)"
+    name = "Mon CV"
     url = "media/CV_long_JS_FR.pdf"
     weight = 80

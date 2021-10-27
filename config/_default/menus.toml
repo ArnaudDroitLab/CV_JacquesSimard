@@ -14,8 +14,3 @@
     name = "My CV"
     url = "media/CV_long_JS.pdf"
     weight = 70
-
- [[main]]
-    name = "Mon CV (version française)"
-    url = "media/CV_long_JS_FR.pdf"
-    weight = 80
