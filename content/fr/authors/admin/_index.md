@@ -26,7 +26,7 @@ interests:
 organizations:
 - name: Université Laval
   url: https://www.ulaval.ca/
-role: <b>PhD, MSRC, MACSS, ASC</b><br><br><i>Vice-doyen à la recherche et aux études supérieures,<br>Professeur titulaire,<br>Departement de Médicine moléculaire,<br>Faculté de Médicine, Université Laval<br>Centre de recherche du CHU de Québec – Université Laval</i>
+role: <b>PhD, MSRC, MACSS, ASC</b><br><br><i>Vice-doyen à la recherche et à l’innovation,<br>Professeur titulaire,<br>Departement de Médicine moléculaire,<br>Faculté de Médicine, Université Laval<br>Centre de recherche du CHU de Québec – Université Laval</i>
 social:
 - icon: envelope
   icon_pack: fas
